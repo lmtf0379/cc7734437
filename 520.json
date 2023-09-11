@@ -47,6 +47,8 @@
 
 {"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
+{"key": "csp_XYQBiu_烧火","name": "烧火☆VIP","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/烧火.json"},
+
 {"key": "萌猫","name": "🐼SVIP┃萌猫","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
 {"key": "bei", "name": "🗻SVIP┃北川", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
