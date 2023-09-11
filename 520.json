@@ -17,7 +17,7 @@
 
 {"key":"tengxun","name":"⭐SVIP┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=af321e35ccca419ea747036a33cad0dd","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"厂长在线","name":"👷SVIP┃厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
@@ -59,7 +59,7 @@
 
 {"key":"爱迪","name":"💡SVIP┃艾迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 
-{"key":"Paper","name":"📝SVIP┃纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=af321e35ccca419ea747036a33cad0dd","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Paper","name":"📝SVIP┃纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Hdhive_影巢","name":"🦜SVIP┃影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
 
