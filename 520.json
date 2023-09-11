@@ -11,7 +11,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🏆小盒酷玩┃SVIP专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "🏆小盒┃SVIP","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key": "csp_WoGG","name": "👽SVIP┃玩偶云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
@@ -43,7 +43,7 @@
 
 {"key": "小鹿","name": "🦌SVIP┃小鹿影视","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
-{"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+{"key": "csp_Free","name": "🌱SVIP┃Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
 
 {"key": "萌猫","name": "🐼SVIP┃萌猫影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
