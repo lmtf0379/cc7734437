@@ -1,5 +1,4 @@
 {
-
 "作者":"小盒酷玩",
 "站名":"七月影视",
 "主页url":"http://www.9day.cc",
@@ -15,11 +14,6 @@
 "副标题":"module-item-text\">&&</div>",
 "搜索url":"http://www.9day.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
 "搜索模式": "0",
-//"搜索数组": "<li&&</li>",
-//"搜索图片": "data-original=\"&&\"",
-//"搜索标题": "title=\"&&\"",
-//"搜索链接": "href=\"&&\"",
-//"搜索后缀":"/vod/",
 "状态":"集数：&&</div>",
 "导演":"导演：&&</div>",
 "主演":"主演：&&</div>",
@@ -33,9 +27,7 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀":"",
 "嗅探词":".mp4#.aliyuncs.com#.m3u8?#.mp4#.m3u8",
-//"过滤词":"url=#?v=https",
 "播放请求头":"",
-//"免嗅":"1",
 "分类":"电影$1#电视剧$2#综艺$3#动画$4",
 "分类url":"http://www.9day.cc/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
  "筛选":{
