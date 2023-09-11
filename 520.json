@@ -17,7 +17,7 @@
 
 {"key":"tengxun","name":"⭐SVIP┃4K","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tx.js"},
 
-{"key": "xml_玩偶","name": "🧙VSIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=af321e35ccca419ea747036a33cad0dd","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=af321e35ccca419ea747036a33cad0dd","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"厂长在线","name":"👷SVIP┃厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
