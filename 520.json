@@ -29,6 +29,30 @@
 
 {"key": "大鹏","name": "🔌SVIP┃大鹏","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.jialiangos.com/api.php/app/"},
 
+
+
+
+{
+      "key": "csp_毛驴",
+      "name": "📽️毛驴┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名":"毛驴影视",
+        "主页url":"https://www.maolvys.com/",
+        "数组":"class=\"public-list-div public-list-bj\"&&</div",
+        "图片":"data-original=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"
+      }
+    },
+
+
+
+
+
+
 {"key": "kwmb","name": "🦴SVIP┃秒播","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=","categories": ["电影","连续剧","动漫","综艺"]},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
