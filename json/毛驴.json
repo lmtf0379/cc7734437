@@ -3,7 +3,7 @@
 "图片": "data-src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
-"线路数组": "<a&&a>",
+"线路数组": "<a&&a>[不包含:毛驴-极速①号线#鸡儿云#飞速云#新浪云#金鹰云][排序:爱坤>蓝光>快看]",
 "线路标题": "<i class=\"fa ds-dianying\">&&<span class=\"badge\">",
 "副标题":"<span class=\"public-list-prb hide ft2\">&&</span>",
 "分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year}",
