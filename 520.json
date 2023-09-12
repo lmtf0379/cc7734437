@@ -41,6 +41,8 @@
 
 {"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
+{"key": "csp_毛驴","name": "🐴SVIP┃毛驴","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
+
 {"key": "007","name": "🎈SVIP┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
 {"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
