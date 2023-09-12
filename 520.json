@@ -37,7 +37,9 @@
 
 {"key":"玉米", "name": "🌽SVIP┃玉米", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
 
-{"key": "七月","name": "🌴SVIP┃七月","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七月.json"},    
+{"key": "七月","name": "🌴SVIP┃七月","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七月.json"},
+
+{"key": "XBPQsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6080.json"},
 
 {"key": "007","name": "🎈SVIP┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
