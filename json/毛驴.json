@@ -4,7 +4,7 @@
         "主页url":"https://www.maolvys.com/",
         "数组":"class=\"public-list-div public-list-bj\"&&</div[不包含:线路1#线路3#线路14#线路5#线路6]",
         "图片":"data-original=\"&&\"",
-        "标题":"alt=\"&&\"[替换:腾讯视频>>线路2#小盒酷玩#</span><small>>>共]+集",
+        "标题":"alt=\"&&\"[替换:腾讯视频>>线路2#小盒酷玩#</span><small>>>共]",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"
       }
