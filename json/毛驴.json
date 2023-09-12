@@ -1,11 +1,10 @@
- {
-        "作者":"小盒酷玩",
-        "站名":"毛驴影视",
-        "主页url":"https://www.maolvys.com/",
-        "线路数组":"data-dropdown-value=&&</div>[不包含:不包含:线路1#线路3#线路14#线路5#线路6]",
-        "数组":"class=\"public-list-div public-list-bj\"&&</div[不包含:线路1#线路3#线路14#线路5#线路6]",
-        "图片":"data-original=\"&&\"",
-        "标题":"alt=\"&&\"",
-        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url":"https://www.maolvys.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/"
-      }
+{
+"数组":"class=\"public-list-div public-list-bj\"&&</div",
+"图片": "data-src=\"&&\"",
+"标题":"alt=\"&&\"",
+"链接":"href=\"&&\"",
+"线路数组": "<a&&a>",
+"线路标题": "<i class=\"fa ds-dianying\">&&<span class=\"badge\">",
+"副标题":"<span class=\"public-list-prb hide ft2\">&&</span>",
+"分类url": "https://maolvys.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/state/{state}/version/{version}/year/{year}",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
