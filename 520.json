@@ -27,6 +27,8 @@
 
 { "key": "路人", "name": "🚶SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
+{"key": "csp_毛驴","name": "🐴SVIP┃毛驴","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
+
 {"key": "大鹏","name": "🔌SVIP┃大鹏","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.jialiangos.com/api.php/app/"},
 
 {"key": "kwmb","name": "🦴SVIP┃秒播","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=","categories": ["电影","连续剧","动漫","综艺"]},
