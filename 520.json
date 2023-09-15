@@ -33,8 +33,6 @@
 
 {"key":"来米影视","name":"🌾SVIP┃来米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
 
-{"key":"玉米", "name": "🌽SVIP┃玉米", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},
-
 {"key": "七月","name": "🌴SVIP┃七月","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七月.json"},
 
 {"key":"腾讯","name":"⭕SVIP┃官方","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
@@ -52,8 +50,6 @@
 {"key": "小鹿","name": "🦌SVIP┃小鹿","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
 {"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{"key": "csp_毛驴","name": "🐴SVIP┃毛驴","type": 3,"api": "csp_XBPQ","ext":"./json/毛驴.json"},
 
 {"key": "萌猫","name": "🐼SVIP┃萌猫","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 
