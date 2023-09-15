@@ -37,7 +37,7 @@
 
 {"key": "七月","name": "🌴SVIP┃七月","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七月.json"},
 
-{"key":"mayi","name":"🐜SVIP┃蚂蚁","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch":1,"filterable":1,"jar":"./kw.jar"},
+{"key":"mayi","name":"🐜SVIP┃蚂蚁","type": 3,"api": "csp_MagnetSeedhub","searchable": 1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
 
 {"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
