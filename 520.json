@@ -55,8 +55,6 @@
 
 {"key": "bei", "name": "🗻SVIP┃北川", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
-{"key": "csp_圣城影视","name": "🏠SVIP┃圣城","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/圣城影视.json"},
-
 {"key": "素白","name": "🪧SVIP┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key": "csp_厂长","name": "🍎SVIP┃主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
