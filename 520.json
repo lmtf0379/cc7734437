@@ -98,7 +98,7 @@
 
 {"name": "🕵影探","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
 
-{"name": "⭕腾讯官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "⭕官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},  
 
