@@ -27,7 +27,7 @@
 
 { "key": "路人", "name": "🚶SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-{"key": "宇宙","name": "🔌SVIP┃宇宙","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tv.yuzhoukeji.top/app/admin/drpy/lib/qq.php/"},
+{"key": "csp_AppYsV2_宇宙","name": "🔌SVIP┃宇宙","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tv.yuzhoukeji.top/api.php/app/"},
 
 {"key":"csp_AppYsV2_影探","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
