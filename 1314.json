@@ -35,7 +35,7 @@
 
 {"key": "csp_AppYsV2_玉米","name": "SVIP┃玉米","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
 
-{"key":"来米影视","name":"🌾SVIP┃来米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/来米.json"},
+{"key": "csp_热播","name": "SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
 {"key": "七月","name": "🌴SVIP┃七月","type": 3,"playerType": 2,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/七月.json"},
 
