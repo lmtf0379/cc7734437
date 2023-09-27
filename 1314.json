@@ -27,6 +27,8 @@
 
 {"key": "小胡","name": "👳SVIP┃小胡","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
 
+{"key": "Alist","name": "️SVIP┃仙女","type": 3,"api": "http://154.8.204.57:40047/tvbox/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.8.204.57:40047/tvbox/json/alist.json;200;video"},
+
 {"key":"csp_AppYsV2_影探","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 
 {"key": "csp_AppYsV2_嘉靓","name": "🍳SVIP┃嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
