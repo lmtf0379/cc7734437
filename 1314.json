@@ -98,7 +98,7 @@
 
 {"name": "web聚合","type": 3,"url": "Web"},
 
-{"ext": "","type_text": "Type 1","name": "蓝光","id": 5,"status_text": "","type": "1","encryptionswitch": 1,"url": "https://lao8.xn--654a.cc/?url="},
+{"name": "京项","type": 1,"url": "https://lao8.xn--654a.cc/?url="},
 
 {"name": "⭕官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
