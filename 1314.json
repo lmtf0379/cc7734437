@@ -33,13 +33,13 @@
 
 {"key": "追忆","name": "SVIP┃追忆","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key":"酷影","name":"SVIP┃酷影","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
-
 {"key":"csp_YT","name":"SVIP┃影探", "type": 3, "api":"csp_YT","ext":"http://vip.lyyytv.cn###d2f4e0fvaasd2c2b","jar":"./jar/YT.jar"},
 
 {"key": "csp_AppYsV2_玉米","name": "🌽SVIP┃玉米","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
 
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
+
+{"key":"酷影","name":"SVIP┃酷影","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
 {"key": "熊猫","name": "🐼SVIP┃熊猫","type": 3,"api": "csp_XBPQ","ext": "./json/熊猫.json"},
 
