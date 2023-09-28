@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🏆小盒┃SVIP","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "玩偶","name":"👽SVIP┃玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4a9e1b203ac1496f96aa931ae6e6f696","filter": "https://tvbox.cainisi.cf/json/wogg.json"},"jar": "https://tvbox.cainisi.cf/jar/fm0926.jar;md5;08e60753eb29394b75c088e1f06dfb17"},
+{"key": "玩偶","name":"👽SVIP┃玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4a9e1b203ac1496f96aa931ae6e6f696","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
 {"key":"csp_WoGG","name":"SVIP┃WOGG","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
