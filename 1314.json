@@ -15,8 +15,6 @@
 
 {"key": "玩偶","name":"👽SVIP┃玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4a9e1b203ac1496f96aa931ae6e6f696","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
-{"key":"csp_WoGG","name":"SVIP┃WOGG","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
-
 {"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"厂长在线","name":"👷SVIP┃厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
@@ -77,7 +75,7 @@
 
 {"key":"Paper","name":"📝SVIP┃纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "csp_Hdhive_影巢","name":"🦜SVIP┃影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/tok.txt","jar":"./jar/ali.jar"},
+{"key":"csp_WoGG","name":"SVIP┃WOGG","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
 {"key": "drpy_js_Alist","name": "👑SVIP┃alist","type": 3,"api": "http://81.68.148.203/aytv/data/json/dr/lib/alist.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://81.68.148.203/tv/ext/khari.json"},
 
