@@ -43,6 +43,8 @@
 
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
+{"key":"宇宙","name":"🧿SVIP┃宇宙","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://tvbox-1-g5221611.deta.app/api.php/app/"},
+
 {"key":"酷影","name":"🧿SVIP┃酷影","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
 {"key": "熊猫","name": "🐼SVIP┃熊猫","type": 3,"api": "csp_XBPQ","ext": "./json/熊猫.json"},
