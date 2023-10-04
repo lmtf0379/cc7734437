@@ -29,6 +29,8 @@
 
 { "key": "路人", "name": "🏃SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
+{"key": "速映","name": "🛴SVIP┃速映","type": 3,"api": "csp_XBPQ","ext":"./json/速映.json"},
+
 {"key": "追忆","name": "🌠SVIP┃追忆","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
 {"key": "App热剧","name": "🐱SVIP┃剧猫","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
