@@ -21,6 +21,8 @@
 
 {"key":"厂长在线","name":"👷SVIP┃厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
+{"key":"mino4K","name":"⛅SVIP┃mino","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"},
+
 {"key":"6v","name":"🤘SVIP┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
@@ -36,8 +38,6 @@
 {"key": "csp_AppYsV2_嘉靓","name": "🍳SVIP┃嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key": "追忆","name": "🌠SVIP┃追忆","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
-
-{"key":"mino4K","name":"⛅SVIP┃mino","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/dimaston1/4k/-/raw/main/jar/fix0929.jar"},
 
 {"key":"csp_YT","name":"🕵SVIP┃影探", "type": 3, "api":"csp_YT","ext":"http://vip.lyyytv.cn###d2f4e0fvaasd2c2b","jar":"./jar/YT.jar"},
 
