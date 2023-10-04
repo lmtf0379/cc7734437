@@ -51,6 +51,8 @@
 
 {"key":"酷影","name":"🧿SVIP┃酷影","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
+{"key": "来米","name": "🍿SVIP┃来米","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2","ext":"./json/来米.json"},
+
 {"key": "熊猫","name": "🐼SVIP┃熊猫","type": 3,"api": "csp_XBPQ","ext": "./json/熊猫.json"},
 
 {"key":"腾讯","name":"⭕SVIP┃官方","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/kw.jar"},
