@@ -11,7 +11,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🏆小盒┃SVIP","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "🏆小盒┃专享","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key": "酷玩","name":"🎯SVIP┃酷玩","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4a9e1b203ac1496f96aa931ae6e6f696","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
