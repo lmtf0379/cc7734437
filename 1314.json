@@ -33,8 +33,6 @@
 
 {"key": "追忆","name": "🌠SVIP┃追忆","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
 
-{"key": "App热剧","name": "🐱SVIP┃剧猫","type": 3,"playerType": 2,"api": "./lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./js/热剧猫.js"},
-
 {"key": "maolv_open","name": "🐴SVIP┃毛驴","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 
 {"key": "小盒","name": "🙆SVIP┃小盒","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
