@@ -27,13 +27,11 @@
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"布蕾影视","name":"⚡SVIP┃布雷","type":3,"api":"csp_Appto","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ==","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
+{"key": "世界","name": "🌍SVIP┃世界","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/sj.js"},
 
 {"key":"追忆","name":"🌠SVIP┃追忆","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
 
 {"key":"橘子影视","name":"🍊SVIP┃橘子","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-
-{ "key": "路人", "name": "🏃SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
 {"key": "速映","name": "🛴SVIP┃速映","type": 3,"api": "csp_XBPQ","ext":"./json/速映.json"},
 
@@ -108,7 +106,7 @@
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key":"xh","name":"🎯2023.10.7更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh","name":"🎯2023.10.11更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
