@@ -29,8 +29,6 @@
 
 {"key":"追忆","name":"🌠SVIP┃追忆","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
 
-{"key":"橘子影视","name":"🍊SVIP┃橘子","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-
 { "key": "路人", "name": "🏃SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
 {"key": "maolv_open","name": "🐴SVIP┃毛驴","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
