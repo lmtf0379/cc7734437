@@ -19,29 +19,13 @@
 
 {"key":"厂长在线","name":"👷SVIP┃厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
-{"key":"米诺影视","name":"⛅SVIP┃MINO","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-
 {"key":"6v","name":"🤘SVIP┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key": "世界","name": "🌍SVIP┃世界","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/sj.js"},
-
-{"key":"追忆","name":"🌠SVIP┃追忆","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-
-{"key":"橘子影视","name":"🍊SVIP┃橘子","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-
-{"key": "速映","name": "🛴SVIP┃速映","type": 3,"api": "csp_XBPQ","ext":"./json/速映.json"},
-
-{"key": "maolv_open","name": "🐴SVIP┃毛驴","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
-
-{"key": "小盒","name": "🙆SVIP┃小盒","type": 1,"playerType": 1,"api": "http://zy.xzam.cn/api.php/provide/vod/"},
-
 {"key": "csp_AppYsV2_嘉靓","name": "🍳SVIP┃嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 
 {"key":"ytvip","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
-
-{"key": "玉米","name": "🌽SVIP┃玉米","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
@@ -102,7 +86,7 @@
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key":"xh","name":"🎯2023.10.11更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh","name":"🎯2023.10.14更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 
 ],
