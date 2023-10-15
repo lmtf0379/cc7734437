@@ -31,6 +31,8 @@
 
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 
+{"key": "蜗牛","name": "🐌SVIP┃蜗牛","type": 3,"api": "csp_XBPQ","ext": "./json/蜗牛.json"},
+
 {"key": "csp_XBPQ_好戏", "name": "👹SVIP┃好戏","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "./json/好戏.json"},
 
