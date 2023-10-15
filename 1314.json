@@ -27,8 +27,6 @@
 
 { "key": "路人", "name": "🏃SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 
-{"key": "csp_AppYsV2_嘉靓","name": "🍳SVIP┃嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
-
 {"key":"ytvip","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
 
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
