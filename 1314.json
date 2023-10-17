@@ -27,7 +27,7 @@
 
 {"key": "来米","name": "🍿SVIP┃来米","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2","ext":"./json/来米.json"},
 
-{ "key":"短剧","name":"SVIP┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"./DJ.jar"},
+{ "key":"短剧","name":"SVIP┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
 
 {"key": "图图影视","name": "SVIP┃图图","type": 3,"jar": "./jar/kw.jar","api": "csp_APPTT","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"},
 
