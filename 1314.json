@@ -23,15 +23,11 @@
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
-
 {"key":"大鹏","name":"🦇SVIP┃大鹏","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 
 {"key": "来米","name": "🍿SVIP┃来米","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2","ext":"./json/来米.json"},
 
 {"key": "348","name": "📐SVIP┃348","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
-
-{"key": "熊猫","name": "🐼SVIP┃熊猫","type": 3,"api": "csp_XBPQ","ext": "./json/熊猫.json"},
 
 {"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
@@ -41,11 +37,7 @@
 
 {"key": "虎虎","name": "🐯SVIP┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
-{"key": "小鹿","name": "🦌SVIP┃小鹿","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
-
 {"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{"key":"蚁蚁","name":"🐜SVIP┃蚁蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 
 {"key": "素白","name": "🕣SVIP┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
@@ -67,7 +59,7 @@
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key":"xh","name":"🎯2023.10.14更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"xh","name":"🎯2023.10.17更新","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 ],
 
