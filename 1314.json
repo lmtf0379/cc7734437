@@ -23,16 +23,7 @@
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{ "key": "路人", "name": "🏃SVIP┃路人", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
-
-{"key":"ytvip","name":"🕵SVIP┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
-
 {"key": "csp_热播","name": "🌞SVIP┃热播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
-
-{"key": "蜗牛","name": "🐌SVIP┃蜗牛","type": 3,"api": "csp_XBPQ","ext": "./json/蜗牛.json"},
-
-{"key": "csp_XBPQ_好戏", "name": "👹SVIP┃好戏","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "./json/好戏.json"},
 
 {"key":"大鹏","name":"🦇SVIP┃大鹏","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 
@@ -53,8 +44,6 @@
 {"key": "小鹿","name": "🦌SVIP┃小鹿","type": 3,"api": "csp_XBPQ","ext":"./json/小鹿.json"}, 
 
 {"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
-{"key": "bei", "name": "🗻SVIP┃北川", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"}, 
 
 {"key":"蚁蚁","name":"🐜SVIP┃蚁蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 
