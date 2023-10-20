@@ -27,8 +27,6 @@
 
 { "key":"短剧","name":"SVIP┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
 
-{"key": "348","name": "📐SVIP┃348","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
-
 {"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
 {"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
