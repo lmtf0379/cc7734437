@@ -17,8 +17,6 @@
 
 {"key":"csp_WoGG","name":"👽SVIP┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8776abf1f1cf4cf2be6ce50cfce0d4c6","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"6v","name":"🤘SVIP┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
