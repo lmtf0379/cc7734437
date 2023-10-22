@@ -21,27 +21,25 @@
 
 {"key":"电影港","name":"💫SVIP┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"大鹏","name":"🦇SVIP┃大鹏","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
-
 {"key": "布蕾影视","name": "SVIP┃布蕾","jar": "./jar/kw.jar","type": 3,"api": "csp_Appto","playerType": 2,"ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="},
 
-{"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
+{"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json","jar":"./jar/xhkwsvip.jar"},
 
-{"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+{"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json","jar":"./jar/xhkwsvip.jar"},
 
-{"key": "虎虎","name": "🐯SVIP┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
+{"key": "虎虎","name": "🐯SVIP┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json","jar":"./jar/xhkwsvip.jar"},
 
-{"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+{"key": "csp_Free","name": "🌱SVIP┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json","jar":"./jar/xhkwsvip.jar"},, 
 
 {"key": "世界","name": "SVIP┃世界","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
-{"key": "csp_vs","name": "SVIP┃VSTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/vs.json"},
+{"key": "csp_vs","name": "SVIP┃VSTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/vs.json","jar":"./jar/xhkwsvip.jar"},
 
-{"key": "素白","name": "🕣SVIP┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
+{"key": "素白","name": "🕣SVIP┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json","jar":"./jar/xhkwsvip.jar"},
 
 {"key":"荐片","name":"🔪SVIP┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
-{"key": "007","name": "🎈SVIP┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
+{"key": "007","name": "🎈SVIP┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json","jar":"./jar/xhkwsvip.jar"},
 
 { "key":"短剧","name":"SVIP┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
 
@@ -57,9 +55,7 @@
     
 {"key": "YiSo","name": "🛎SVIP┃易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","jar":"./jar/kwyp.jar","danmu":true},"timeout":30},
-
-
+{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","danmu":true},"timeout":30},
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
@@ -86,7 +82,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"./jar/xhkwsvip.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+"spider":"./jar/xhkwyp.jar;md5;ba541321bbbf95f6a5ae1220805c79a1",
 
 
 "wallpaper":"https://tool.weetai.cn/api",
