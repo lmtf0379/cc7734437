@@ -32,6 +32,11 @@
       "timeout":30
     },
 
+{"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
+
+{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
+
+
     {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
