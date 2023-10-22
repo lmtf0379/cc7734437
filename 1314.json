@@ -19,8 +19,6 @@
 
 {"key":"电影港","name":"💫磁力┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
 
-{ "key":"短剧","name":"影视┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
-
 {"key": "348","name": "📐影视┃348","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
 
 {"key": "xsj","name": "🍬影视┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
@@ -33,6 +31,8 @@
 
 {"key": "csp_vs","name": "影视┃VSTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/vs.json"},
 
+{ "key":"短剧","name":"影视┃短剧", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 0,"categories":["短剧"],"jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/DJ.jar"},
+
 {"key": "素白","name": "🕣影视┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key":"荐片","name":"🔪影视┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
@@ -40,9 +40,6 @@
 {"key": "007","name": "🎈影视┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
 {"key":"爱迪","name":"💡外剧┃艾迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
-
-
-{"key":"Paper","name":"📝纸条┃搜索","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe?&token=26a6de286cba4d33b7ab1fc6653579a9","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "PanSearch","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
