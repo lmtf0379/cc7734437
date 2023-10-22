@@ -85,7 +85,7 @@
 
 {"key": "小纸条","name":"📝SVIP┃纸条","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","danmu":true},"timeout":30},
 
-{"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
+{"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar":"./jar/xhkwsvip.jar.jar"},
 
 {"key": "七夜","name": "😾SVIP┃七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","danmu":true},"timeout":30}
 
