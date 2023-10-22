@@ -57,7 +57,7 @@
     
 {"key": "YiSo","name": "🛎SVIP┃易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","danmu":true},"timeout":30,"jar":"./jar/kwyp.jar"},
+{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","jar":"./jar/kwyp.jar","danmu":true},"timeout":30},
 
 
 
