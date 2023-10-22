@@ -17,7 +17,7 @@
 
 {"key": "xml_玩偶","name": "🧙SVIP┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4a9e1b203ac1496f96aa931ae6e6f696","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"jojo","name":"👻SVIP┃jojo","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext": {"danmu":true},"jar":"./jar/xyq.jar"},
+{"key":"jojo","name":"👻SVIP┃jojo","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext": {"danmu":true},"jar":"./jar/kwyp.jar"},
 
 {"key":"6v","name":"🤘SVIP┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
