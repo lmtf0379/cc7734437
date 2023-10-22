@@ -3,40 +3,9 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "lives": [{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-    {
-      "key": "豆豆",
-      "name": "🌕豆瓣",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar":"./jar/jtv.jar"    
-    },
-    {
-      "key": "应用商店",
-      "name": "🏪应用┃商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext":"./json/market.json"
-    },
 
-{"key": "xsj","name": "🍬SVIP┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
+    {"key": "豆瓣","name": "🏆小盒┃专享","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-    {
-      "key":"lf_js_lf_live",
-      "name":"☠路飞┃直播",
-      "type":3,
-      "api":"./lib/lf_live_min.js",
-      "style":{ "type":"oval"},
-      "searchable":1,
-      "changeable":0,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./js/lf_live.txt"
-    },
     {
      "key":"jojo",
      "name":"🌉jojo┃影视",
@@ -47,16 +16,7 @@
      "changeable":1,
      "ext": {"danmu":true}
     },
-    {
-     "key":"360",
-     "name":"🐘360┃官源",
-     "type":3,
-     "api":"csp_Sp360",
-     "searchable":1,
-     "filterable":1,
-     "changeable":1,
-     "ext": {"danmu":true}
-    },
+ 
 
     {
       "key":"玩偶弹幕",
@@ -71,16 +31,7 @@
       "danmu":true},
       "timeout":30
     },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
-      "type": 3,
-      "api":"csp_Jianpian",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext": {"danmu": true}
-    },
+
     {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
