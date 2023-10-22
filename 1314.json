@@ -59,7 +59,7 @@
     
 {"key": "YiSo","name": "🛎SVIP┃易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|fhd|auto"},
 
-{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","danmu":true},"timeout":30},
+{"key": "PanSou","name": "🔘SVIP┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
 {"key": "UpYun","name": "📫SVIP┃Up","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
@@ -89,7 +89,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"./jar/kwyp.jar;md5;ba541321bbbf95f6a5ae1220805c79a1",
+"spider":"./jar/xhkwsvip.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 
 
 "wallpaper":"https://tool.weetai.cn/api",
