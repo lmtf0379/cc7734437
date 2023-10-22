@@ -22,6 +22,9 @@
       "changeable": 0,
       "ext":"./json/market.json"
     },
+
+{"key":"子子影视","name":"➰SVIP┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+
     {
       "key":"lf_js_lf_live",
       "name":"☠路飞┃直播",
