@@ -25,7 +25,7 @@
 
 {"key":"子子影视","name":"➰影视子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
-{"key": "csp_星辰","name": "🌛SVIP┃星辰","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/星辰.json"},
+{"key": "csp_星辰","name": "🌛星辰┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/星辰.json"},
 
 {"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
