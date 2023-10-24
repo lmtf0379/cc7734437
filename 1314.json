@@ -15,6 +15,17 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
+{
+            "key": "csp_WGG",
+            "name": "玩偶┃4K(弹幕测试)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./tvbox/tok.txt+4k|auto|fhd$$$弹"
+        },
+
 {"key":"6v","name":"🤘磁力┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
 {"key":"电影港","name":"💫磁力┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
@@ -81,7 +92,7 @@
 
 
 
-"spider":"./jar/kwcs.jar;md5;3372fcd7f4e38a5fe4201dbf0a45d07a",
+"spider":"./jar/kwcs.jar;md5;0ca94ae9ce79992c22ae92f9a0173d07",
 
 
 
