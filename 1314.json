@@ -15,7 +15,7 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "f7b46651fb084e6f9f2bdf30773939aa","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "8776abf1f1cf4cf2be6ce50cfce0d4c6","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
 {"key":"6v","name":"🤘磁力┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
