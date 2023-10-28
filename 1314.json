@@ -67,7 +67,7 @@
 
 {"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
-{"key": "csp_Free","name": "🌱影视┃Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
+{"key": "csp_Free","name": "🌱影视┃Free","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/freeok.json"},
 
 {"key": "jiangliang","name": "🌄嘉靓┃APP","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api.jialiangos.com:81/api.php/app/"},
 
