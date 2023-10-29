@@ -65,7 +65,7 @@
 			}
 		},
 
-{"key":"酷玩云盒","name":"酷玩云盒","type":0,"api":"http://cms.xhkw.fun/index.php/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},    
+{"key":"酷玩云盒","name":"酷玩云盒","type":0,"api":"http://cms.xhkw.fun/index.php/vod/detail/id/1.html","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},    
 
 {"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
