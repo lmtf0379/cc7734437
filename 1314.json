@@ -89,13 +89,7 @@
 
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
-{
-      "key": "小盒",
-      "name": "🔥自营┃外剧",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://cms.xhkw.fun/api.php/provide/vod/"
-    },
+{"key": "酷玩云盒","name": "🌎酷玩┃云盒","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://kudian.51qwtt.xyz/api.php/app/"},
 
 {"key": "素白","name": "🕣影视┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
