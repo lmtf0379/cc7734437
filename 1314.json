@@ -101,8 +101,9 @@
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
+
 				"分类url":"http://cms.xhkw.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",        
-        "分类":"小盒酷玩$1"
+
 
 			}
 		},
