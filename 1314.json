@@ -102,7 +102,7 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url":"http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",        
-"分类":"酷玩云盘$1"
+        "分类":"酷玩云盒$1"
 
 			}
 		},
