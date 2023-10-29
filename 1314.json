@@ -33,18 +33,16 @@
 
 
 {
-			"key": "ok",
-			"name": "Free┃BPQ",
+			"key": "酷玩",
+			"name": "莱芜┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
 			"ext": {
-				{
     "数组": "class=\"stui-vodlist__box&&</li",
     "分类url": "http://cms.xhkw.fun//show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
     "分类": "小盒酷玩$1"
-}
+
 			}
 		},
 
