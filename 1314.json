@@ -89,31 +89,6 @@
 
 {"key": "世界","name": "🌎世界┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 
-
-
-
-{
-			"key": "酷玩云盒",
-			"name": "酷玩┃云盒",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": "2",
-			"api": "csp_XBPQ",
-			"ext": {
-
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-				"分类url":"http://cms.xhkw.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类":"小盒酷玩"     
-
-
-			}
-		},
-
-
-
-
-
 {"key": "素白","name": "🕣影视┃素白白","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/素白白.json"},
 
 {"key":"荐片","name":"🔪影视┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
