@@ -27,6 +27,33 @@
 
 {"key":"Cokemv","name":"🥤COKMVE┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
 
+
+
+
+
+
+{
+			"key": "ok",
+			"name": "Free┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
+			"ext": {
+				{
+    "数组": "class=\"stui-vodlist__box&&</li",
+    "分类url": "http://cms.xhkw.fun//show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+    "分类": "小盒酷玩$1"
+}
+			}
+		},
+
+
+
+
+
+
+
 {"key": "csp_XBP美剧","name": "💲美剧┃影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
 
 {"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
