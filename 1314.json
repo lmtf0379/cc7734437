@@ -102,11 +102,14 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url":"http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",        
-        "分类":"酷玩云盒$1"
+        "分类":"酷玩云盒$1",
+        "数组": "class=\"vodlist_thumb lazyload\"&&</a",
+        "图片": "img.php?url==\"&&\"",
+        "标题": "title=\"&&\"","链接": "href=\"&&\"",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>"
 
 			}
 		},
-
 
 
 
