@@ -1,5 +1,5 @@
 {
-    "数组": "class=\"stui-vodlist__box&&</li",
+    "数组": "class=\"vodlist_thumb lazyload&&</li",
     "分类url": "http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html",
     "分类": "小盒酷玩$1"
 }
