@@ -102,11 +102,7 @@
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url":"http://cms.xhkw.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",        
-        "分类":"小盒酷玩$1",
-        "数组": "class=\"vodlist_thumb lazyload\"&&</a",
-        "图片": "img.php?url==\"&&\"",
-        "标题": "title=\"&&\"","链接": "href=\"&&\"",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>"
+        "分类":"小盒酷玩$1"
 
 			}
 		},
