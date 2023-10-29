@@ -63,9 +63,7 @@
 				"分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
 				"分类": "短剧$41#电影$1#电视剧$2#动漫$4"
 			}
-		},
-
-{"key":"暴风","name":"暴风┃资源","type":1,"api":"http://cms.xhkw.fun/api.php/provide/vod/"},   
+		},  
 
 {"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
 
