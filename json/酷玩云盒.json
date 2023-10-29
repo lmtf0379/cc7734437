@@ -1,8 +1,8 @@
 {
     "数组": "class=\"vodlist_thumb lazyload&&</li",
-    "分类url": "http://cms.xhkw.fun/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
 
 
+     "分类url":"http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", 
 
     "分类": "小盒酷玩$20#电影$1#电视剧$2#动漫$4#综艺$3"
 }
