@@ -4,6 +4,12 @@
 
 "数组": "class=\"vodlist_thumb lazyload\"&&</a>",
 
+"图片": "data-original=\"&&\"",
+
+"标题": "title=\"&&\"",
+
+"链接": "href=\"&&\"",
+
 "搜索url":"http://cms.xhkw.fun/search.php;post;searchword={wd}",
 
 "搜索数组": "<a class=\"vodlist_thumb lazyload&&</a >",
