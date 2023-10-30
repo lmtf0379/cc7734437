@@ -2,6 +2,10 @@
 
 "作者":"小盒酷玩",
 
+"站名":"小盒酷玩",
+    
+"主页url":"http://cms.xhkw.fun/",
+
 "数组": "class=\"vodlist_thumb lazyload\"&&</a>",
 
 "图片": "data-original=\"&&\"",
@@ -10,9 +14,21 @@
 
 "链接": "href=\"&&\"",
 
+"嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com",
+
+"过滤词": "/hls/#php",
+
+"副标题": "<span class=\"pic-text text-right\">&&</span>",
+
 "搜索url":"http://cms.xhkw.fun/search.php;post;searchword={wd}",
 
 "搜索数组": "<a class=\"vodlist_thumb lazyload&&</a >",
+
+"搜索图片": "data-original=\"&&\"",   
+
+"搜索标题": "title=\"&&\"",    
+
+"搜索链接": "href=\"&&\"",
      
 "分类url":"http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", 
 
