@@ -35,13 +35,6 @@
 
  {"key": "万达","name": "😎万达","type": 3,"api": "csp_XBPQ","ext":"./json/万达.json"},
 
- {
-      "key": "小胡",
-      "name": "🔥自营┃外剧",
-      "type": 1,
-      "playerType": 1,
-      "api": "https://qie.huohua.vip/api.php/provide/vod/"
-    },
 
 
 
