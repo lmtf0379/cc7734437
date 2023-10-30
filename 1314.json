@@ -29,10 +29,6 @@
 
 {"key": "csp_XBP美剧","name": "💲美剧┃影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
 
-{"key": "虎虎","name": "🐯影视┃Tiger","type": 3,"api": "csp_XBPQ","ext": "./json/虎虎.json"},
-
-{"key": "csp_Free","name": "🌱影视┃Free","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/freeok.json"},
-
 {"key": "xsj","name": "🍬影视┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
 {"key":"6v","name":"🤘磁力┃6V","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
