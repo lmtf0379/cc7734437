@@ -35,6 +35,14 @@
 
  {"key": "万达","name": "😎万达","type": 3,"api": "csp_XBPQ","ext":"./json/万达.json"},
 
+ {
+      "key": "小胡",
+      "name": "🔥自营┃外剧",
+      "type": 1,
+      "playerType": 1,
+      "api": "https://qie.huohua.vip/api.php/provide/vod/"
+    },
+
 
 
 {"key": "csp_XBP美剧","name": "💲美剧┃影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
