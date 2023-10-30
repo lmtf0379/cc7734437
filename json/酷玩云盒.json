@@ -3,8 +3,6 @@
 "作者":"小盒酷玩",
 
 "站名":"小盒酷玩",
-    
-"主页url":"http://cms.xhkw.fun/",
 
 "数组": "class=\"vodlist_thumb lazyload\"&&</a>",
 
@@ -20,7 +18,7 @@
 
 "副标题": "<span class=\"pic-text text-right\">&&</span>",
 
-"搜索url":"http://cms.xhkw.fun/search.php?page=1&searchword={wd}&searchtype=",
+"搜索url":"http://cms.xhkw.fun/search.php?page=1&searchword={wd}",
 
 
 "搜索数组": "<a class=\"vodlist_thumb lazyload&&</a >",
