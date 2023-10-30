@@ -4,18 +4,15 @@
 
 "站名":"小盒酷玩",
 
-"数组": "class=\"vodlist_thumb lazyload\"&&</a>",
+"数组":"vodlist_thumb lazyload&&</a>",
+
+"搜索后缀":"/submit/",
 
 "图片": "data-original=\"&&\"",
 
 "标题": "title=\"&&\"",
 
 "链接": "href=\"&&\"",
-
-
-"搜索url":"http://cms.xhkw.fun/search.php?wd=1&searchword={wd}",
-
-
      
 "分类url":"http://cms.xhkw.fun/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html", 
 
