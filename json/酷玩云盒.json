@@ -13,7 +13,7 @@
 "链接": "href=\"&&\"",
 
 
-"搜索url":"http://cms.xhkw.fun/search.php?page=1&searchword={wd}&submit=",
+"搜索url":"http://cms.xhkw.fun/index.php/search.php?page=1&searchword={wd}",
 
 
      
