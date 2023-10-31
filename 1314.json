@@ -41,6 +41,8 @@
 
 {"key":"荐片","name":"🔪影视┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
+{"key": "酷玩云盒","name": "🕣酷玩云盒","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/酷玩云盒.json"},
+
 {"key": "007","name": "🎈影视┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
 {"key":"爱迪","name":"💡外剧┃艾迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
