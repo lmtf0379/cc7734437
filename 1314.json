@@ -27,8 +27,6 @@
 
 {"key": "嘿嘿","name": "🐼嘿嘿┃App","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/嘿嘿.jar","type": 3,"api": "csp_DDMJ","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 0,"ext": "ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30="},
 
-{"key": "小盒酷玩","name": "😎小盒酷玩","type": 3,"api": "csp_XBPQ","ext":"./json/酷玩云盒.json"},
-
 {"key": "csp_XBP美剧","name": "💲美剧┃影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/美剧.json"},
 
 {"key": "csp_XBP爱看","name": "👀爱看┃影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/xhkw/vip/-/raw/main/jar/xbpq.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/爱看.json"},
