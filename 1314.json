@@ -61,7 +61,7 @@
       "hide": 1,
       "jar": "./jar/ali2.jar",
       "ext": {
-        "token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+        "token": "./tvbox/tok.txt",
         "filter": "./json/wogg.json"
       }
     },
