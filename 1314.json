@@ -49,22 +49,7 @@
 
 {"key": "小纸条","name": "📝纸条┃搜索","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","username": "xiaozhitiaonb","password": "xiaozhitiaonb","danmu":true},"jar":"./jar/OKDM.jar","timeout":30},
 
-{
-      "key": "fm云盘玩偶",
-      "name": "🐝云盘☆玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./jar/ali2.jar",
-      "ext": {
-        "token": "./tvbox/tok.txt",
-        "filter": "./json/wogg.json"
-      }
-    },
+{"key": "玩偶哥哥","name": "玩偶┃哥哥","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": {"token": "./tvbox/tok.txt","filter": "./json/wogg.json"}},
 
 {"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
