@@ -17,6 +17,8 @@
 
 {"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4d6b7de27e6f4367985d185afef556f5","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
+{"key": "fm云盘玩偶","name": "🧙玩偶┃哥哥","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": {"token": "./tvbox/tok.txt","filter": "./json/wogg.json"}},
+
 {"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"子子影视","name":"➰影视┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
@@ -48,8 +50,6 @@
 {"key": "YiSo","name": "🛎易搜┃云盘","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
 {"key": "小纸条","name": "📝纸条┃搜索","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":{"token":"./tvbox/tok.txt","username": "xiaozhitiaonb","password": "xiaozhitiaonb","danmu":true},"jar":"./jar/OKDM.jar","timeout":30},
-
-{"key": "fm云盘玩偶","name": "🐝云盘☆玩偶","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": {"token": "./tvbox/tok.txt","filter": "./json/wogg.json"}},
 
 {"key": "PanSou","name": "🔘盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"},
 
