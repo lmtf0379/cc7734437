@@ -14,8 +14,7 @@
 {"key": "豆瓣","name": "🎯小盒┃专享","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 
-
-{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"./js/wogg_open.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
+{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
 
 
