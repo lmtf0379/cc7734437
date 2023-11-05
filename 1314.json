@@ -16,7 +16,7 @@
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
-
+{"key": "csp_WoGG","name": "🎈玩偶┃4K(弹幕)","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./jar/woggdm.jar"},
 
 {"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4d6b7de27e6f4367985d185afef556f5","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
