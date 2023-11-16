@@ -21,6 +21,8 @@
 
 {"key":"子子影视","name":"➰影视┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
 
+{"key": "NOAD","name": "🥫NO┃视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/novip.json"},
+
 {"key": "xsj","name": "🍬影视┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
 {"key":"涂城","name":"💤涂城┃TV","type":0,"api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"playerType":2,"filterable":1 ,"playUrl": "json:https://www.qiaoji8.com/tvbox/json1.php?url="},
