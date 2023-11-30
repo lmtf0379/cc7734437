@@ -25,8 +25,6 @@
 
 {"key": "NOAD","name": "🥫NO┃视频","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/novip.json"},
 
-{ "key": "996", "name": "⛷996┃影视","type": 3, "filterable":   1 , "api": "csp_XBPQ","ext": { "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#爽文短剧$4#动漫$3","筛选":"1"} },
-
 {"key": "xsj","name": "🍬影视┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
 {"key" : "js_v2-jrly","name" :"📯嘉音┃切片","type" : 3,"api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js","ext" : "https://notabug.org/ygfxz/6/raw/main/js/嘉良.js"},
