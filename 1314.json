@@ -29,7 +29,11 @@
 
 {"key": "xsj","name": "🍬影视┃新视觉","type": 3,"playerType": 2,"api": "csp_XBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "./json/新视觉.json"},
 
+{"key" : "js_v2-jrly","name" :"📯嘉音┃切片","type" : 3,"api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js","ext" : "https://notabug.org/ygfxz/6/raw/main/js/嘉良.js"},
+
 {"key":"csp_Free","name":"🌱Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/free.json"},
+
+{"key": "2聚合","name": "🎀遇见┃TV","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 2,"filterable": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
 
 
 {"key":"影探4K","name":"🕵影探┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
