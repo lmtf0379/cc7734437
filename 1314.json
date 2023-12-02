@@ -13,7 +13,7 @@
 
 {"key": "豆瓣","name": "🎯小盒┃专享","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "4d6b7de27e6f4367985d185afef556f5","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "f1350208afa7479e91904f0c7b0b04ad","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
 {"key": "玩偶弹幕","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","jar": "./jar/wodm.jar","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 
